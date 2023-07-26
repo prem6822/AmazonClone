@@ -1,3 +1,8 @@
+I understand that the clone-based project created by me is intended solely for educational purposes.
+
+Website URL: https://clone-11a20.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
